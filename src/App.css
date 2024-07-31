@@ -1,0 +1,77 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.headertop{
+  margin-left: 5%;
+  width: 89%;
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  background-color: grey;
+}
+
+.logo{
+  font-family: Poppins;
+  font-size: x-large;
+  font-weight: bold ;
+  width: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation{
+  font-family: Poppins;
+  width: 30%;
+  font-size: 21px;
+  font-weight:900;
+  display: flex; 
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 450px;
+}
+
+.navigation .trait {
+  border-bottom: 1px solid black;
+}
+
+.fbsnap{
+  width: 8%;
+  padding-right: 100px ;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.central{
+  display: flex;
+  background-color: grey;
+  justify-content: center;
+}
+
+.title{
+  width: 15%;
+  height: 200px;
+  background-color: red;
+}
+
+.text{
+  background-color: rosybrown;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.someone{
+  width: 50%;
+  margin-left: 20%;
+}
+
+.someone img{
+  width: 75%;
+  background-color: blue;
+}

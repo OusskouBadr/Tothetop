@@ -1,0 +1,31 @@
+header{
+  margin-left: 5%;
+  width: 90%;
+  display: flex;
+  background-color: grey;
+  height: 80px;
+}
+
+.logo{
+  width: 10%;
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+  font-weight: 900;
+  padding-left: 120px;
+}
+
+.navigation{
+  width: 30%;
+  background-color: red;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items:;
+}
+
+.logos{
+  background-color: purple;
+  width: 20%;
+  display: flex;
+}
